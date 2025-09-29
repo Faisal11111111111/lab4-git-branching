@@ -15,8 +15,8 @@ You will:
 ## Branch Summaries
 
 - `main`: Original story starter
-- `hero-path`: _[Describe your changes here]_
-- `villain-path`: _[Describe your changes here]_
+- `hero-path`: The hero pulls the glowing sword, gains unstoppable power, and defeats the dragon to restore peace.
+- `villain-path`: The hero accepts dark power, becomes corrupted, and uses new powers to overthrow the forest guardians.
 
 ## Final Checklist
 
